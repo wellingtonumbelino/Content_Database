@@ -20,7 +20,7 @@ simples a criação de aplicativos em escala de Internet em tempo real.
 Todos os dados do Redis residem na memória principal do servidor, ao contrário de bancos de dados como PostgreSQL,
 Cassandra, MongoDB e outros que armazenam a maioria dos dados em discos ou SSDs. Nos bancos de dados tradicionais,
 baseados em disco, a maioria das operações exige acesso ao disco. Por outro lado, datastores na memória como o Redis
-não têm essa limitação. Dessa forma, os armazenamentos na memória podem oferecer suporte a volumes de operações e tempos de resposta que são uma ordem de magnitude maiores que as demais soluções de armazenamento. O resultado: performance execpcional, com operações de leitura ou gravação demorando em média menos de um milissegundo e suporte
+não têm essa limitação. Dessa forma, os armazenamentos na memória podem oferecer suporte a volumes de operações e tempos de resposta que são uma ordem de magnitude maiores que as demais soluções de armazenamento. O resultado: performance excepcional, com operações de leitura ou gravação demorando em média menos de um milissegundo e suporte
 a milhôes de operações por segundo.
 
 # Estruturas Flexíveis de Dados
@@ -38,7 +38,7 @@ Redis incluem:
 O Redis simplifica a codificação, reduzindo a quantidade de código necessária para armazenar, acessar e usar
 dados em aplicativos. Por exemplo, se o aplicativo tiver dados armazenados em um hashmap e você quiser armazenar
 esses dados em um datastore, basta usar a estrutura de dados de hash do Redis para armazenar os dados. Uma tarefa
-similar, em um datasotre sem estruturas de dados de hash, exigiria muitas linhas de código para a conversão de um
+similar, em um datastore sem estruturas de dados de hash, exigiria muitas linhas de código para a conversão de um
 formato para o outro. O Redis é fornecido com estruturas de dados nativas e várias opções para manipular e interagir com dados. Mais de cem clientes de código aberto estão disponíveis para os desenvolvedores do Redis. As
 linguagens compatíveis incluem Java, Python, PHP, C, C++, C#, JavaScript, Node.js, Ruby, R, Go e muitas outras.
 
