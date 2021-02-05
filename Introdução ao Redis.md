@@ -45,4 +45,4 @@ linguagens compatíveis incluem Java, Python, PHP, C, C++, C#, JavaScript, Node.
 # Alta Disponibilidade e Escalabilidade
 O Redis oferece uma arquitetura de réplica principal em um único nó principal ou em uma topologia de clusters.
 Dessa forma, pode-se criar soluções altamente disponíveis que oferecem performance e confiabilidade consistentes.
-Qunado for necessário ajustar o tamanho do cluster, pode-seusar uma das diversas opções de escalabilidade vertical ou horizontal disponíveis. Assim, o cluster pode crescer com a demanda.
+Qunado for necessário ajustar o tamanho do cluster, pode-se usar uma das diversas opções de escalabilidade vertical ou horizontal disponíveis. Assim, o cluster pode crescer com a demanda.
